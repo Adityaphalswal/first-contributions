@@ -2,11 +2,13 @@
 
 <!-- prettier-ignore-start -->
 <!-- collins kiplangat mutai(Kiplaacollo) -->
+- [Alessandro Greco](https://github.com/aleff-github)
 - [Prashant Padhy](https://github.com/prashantpadhy)
 - [Ayushi Nanavati](https://github.com/Ayyyn)
 - [Jeremy Cunningham](https://github.com/j2cunningham)
 - [Payal Jain](https://github.com/payal1206)
 - [Nathan Speich](https://github.com/nathanspeich)
+- [Koushik Chakraborty](https://github.com/KoushikAD1234)
 - [Akash Yadav](https://github.com/Akash-moon)
 - [Hari Prasad](https://github.com/hariprasd)
 - [MrAnonymous09](https://github.com/MrAnonymous09)
@@ -15,6 +17,7 @@
 - [Sreenath Sharma](https://github.com/sreenath707)
 - [Gaurav Kumar Verma](https://github.com/vgauravkumar)
 - [ADITYA SAINI](https://github.com/Adityasaini10012001)
+- [Aditya Phalswal](https://github.com/Adityaphalswal)
 - [atul rajput](https://github.com/Atulrajput9068)
 - [Yasrib Proyas](https://github.com/Proyas21)
 - [Vikash Patel](https://github.com/its-red-eagle)\
@@ -35,6 +38,7 @@
 - [Will Menezes](https://github.com/uiuzih)
 - [Josuan Leonardo](https://github.com/josleonardo)
 - [Kanishk Mewal](https://github.com/Kanishk-Mewal)
+- [Suthar Yash](https://github.com/Yash-suthar)
 - [Vicky](https://github.com/HungryVicky)
 - [Aryam parmar](https://github.com/aryamparmar)
 - [JpArango](https://github.com/Jpkeys29)
@@ -49,6 +53,7 @@
 - [Abhishek Pandey](https://github.com/bird-03)
 - [Suman Sourabh](https://github.com/Sumansourabh14)
 - [Kartik Nandagoan](https://github.com/KartikRN)
+- [Vimal Athithya] ( https://github.com/Vimalathithya007)
 - [Andres Romero](https://github.com/aromero18020)
 - [Mohit Kumar Suman](https://github.com/mohitkrsuman)
 - [David Kobalia](https://github.com/daweedkob)
@@ -136,6 +141,7 @@
 - [Sanjay RB](https://github.com/sanjay-rb)
 - [Vrutti Patel](https://github.com/vrutti24)
 - [Anmol Singh Yadav](https://github.com/IamLucif3r)
+- [Ravish Satwani](https://github.com/ravish036)
 - [Elia Zonta](https://github.com/eliazonta)
 - [Khori Hutama](https://github.com/khorihutama)
 - [Hamza Nawab](https://github.com/blazenn2)
@@ -1035,6 +1041,7 @@
 - [Heyran L](https://github.com/hran-8)
 - [Zahra Shahid](https://github.com/ZahraShahid)
 - [Brent Upton](https://github.com/bupton)
+- [Wes Bourke](https://github.com/wesbourke101)
 - [Hoper Hope](https://github.com/HoperHope)
 - [Wrik Roy](https://github.com/roywrik)
 - [Julien AWON&#39;GA](https://github.com/julien-aw)
@@ -2385,6 +2392,7 @@
 - [Daniel Freire](https://github.com/proxyanon)
 - [Septiyadi](https://github.com/uni-fied)
 - [Macho Maheen](https://github.com/MachoMaheen)
+- [Deepika Kumari](https://github.com/dips6202)
 
 
 <!-- prettier-ignore-end -->
